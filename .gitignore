@@ -1,0 +1,12 @@
+
+KindleLister/bin/Debug/net8.0/
+
+KindleLister/obj/Debug/net8.0/
+
+.idea/.idea.KindleLister/.idea/
+
+KindleLister/obj/
+
+KindleLister/kindle_list.csv
+
+KindleLister/kindle_list.json
